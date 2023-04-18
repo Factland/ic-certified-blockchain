@@ -16,6 +16,10 @@
     "staging": {
       "providers": [ "https://ic0.app" ],
       "type": "persistent"
+    },
+    "testing": {
+      "providers": [ "https://ic0.app" ],
+      "type": "persistent"
     }
   },
   "version": 1
